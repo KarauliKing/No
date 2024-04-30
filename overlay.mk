@@ -210,6 +210,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a82xq \
 	treble-overlay-samsung-a82xq-systemui \
 	treble-overlay-samsung-a9 \
+	treble-overlay-samsung-b0q \
 	treble-overlay-samsung-d1q \
 	treble-overlay-samsung-d1q-systemui \
 	treble-overlay-samsung-d1x \
